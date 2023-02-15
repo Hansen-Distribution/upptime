@@ -5,152 +5,168 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1580,
     "timeDay": 1610,
     "timeWeek": 1580,
     "timeMonth": 1580,
     "timeYear": 1580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 4
+    }
   },
   {
     "name": "Helite US App",
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 747,
     "timeDay": 751,
     "timeWeek": 747,
     "timeMonth": 747,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 4
+    }
   },
   {
     "name": "Helite US IHSA",
     "url": "https://sponsorship.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/sponsorship.heliteus.com.ico",
     "slug": "helite-us-ihsa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 520,
     "timeDay": 530,
     "timeWeek": 520,
     "timeMonth": 520,
     "timeYear": 520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 3
+    }
   },
   {
     "name": "Helite US USHJA",
     "url": "https://ushja.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1029,
     "timeDay": 541,
     "timeWeek": 1029,
     "timeMonth": 1029,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 3
+    }
   },
   {
     "name": "Helite US Retailer Registration",
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1876,
     "timeDay": 3720,
     "timeWeek": 1876,
     "timeMonth": 1876,
     "timeYear": 1876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 2
+    }
   },
   {
     "name": "Helite US Ambassador Registration",
     "url": "https://ambassador.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ambassador.heliteus.com.ico",
     "slug": "helite-us-ambassador-registration",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1575,
     "timeDay": 2589,
     "timeWeek": 1575,
     "timeMonth": 1575,
     "timeYear": 1575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 2
+    }
   },
   {
     "name": "Helite US Shop",
     "url": "https://shop.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.heliteus.com.ico",
     "slug": "helite-us-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2316,
     "timeDay": 2420,
     "timeWeek": 2316,
     "timeMonth": 2316,
     "timeYear": 2316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Egide US Site",
     "url": "https://www.egideus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.egideus.com.ico",
     "slug": "egide-us-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 745,
     "timeDay": 688,
     "timeWeek": 745,
     "timeMonth": 745,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 1
+    }
   },
   {
     "name": "Egide US API",
     "url": "https://api.egideus.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.egideus.com.ico",
     "slug": "egide-us-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +175,8 @@
     "timeWeek": 419,
     "timeMonth": 419,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 0
+    }
   }
 ]
