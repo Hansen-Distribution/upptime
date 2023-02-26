@@ -1,7 +1,7 @@
 url: https://www.heliteus.com
-status: up
-code: 200
-responseTime: 1800
-lastUpdated: 2023-02-26T04:36:20.485Z
+status: down
+code: 403
+responseTime: 284
+lastUpdated: 2023-02-26T06:43:14.389Z
 startTime: Mon Feb 13 2023 00:29:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
