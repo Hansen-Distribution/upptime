@@ -4,17 +4,17 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "up",
-    "uptime": "89.92%",
-    "uptimeDay": "90.60%",
+    "status": "down",
+    "uptime": "90.02%",
+    "uptimeDay": "90.58%",
     "uptimeWeek": "84.81%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "89.92%",
-    "time": 1487,
-    "timeDay": 1370,
-    "timeWeek": 1508,
-    "timeMonth": 1487,
-    "timeYear": 1487,
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "90.02%",
+    "time": 1484,
+    "timeDay": 1306,
+    "timeWeek": 1502,
+    "timeMonth": 1484,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2023-03-06": 135,
       "2023-03-05": 201,
@@ -30,7 +30,7 @@
       "2023-02-23": 174,
       "2023-02-22": 76,
       "2023-02-21": 221,
-      "2023-02-20": 119
+      "2023-02-20": 90
     }
   },
   {
