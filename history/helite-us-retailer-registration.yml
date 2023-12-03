@@ -1,7 +1,7 @@
 url: https://retailer.heliteus.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-03T11:15:44.196Z
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2023-12-03T11:26:31.025Z
 startTime: 2023-02-13T00:29:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
