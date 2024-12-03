@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.29%",
-    "time": 2790,
-    "timeDay": 276,
-    "timeWeek": 280,
-    "timeMonth": 301,
-    "timeYear": 2385,
+    "time": 2784,
+    "timeDay": 321,
+    "timeWeek": 286,
+    "timeMonth": 299,
+    "timeYear": 2376,
     "dailyMinutesDown": {
       "2024-11-19": 35,
       "2024-06-24": 897,
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.28%",
     "time": 974,
-    "timeDay": 715,
-    "timeWeek": 729,
-    "timeMonth": 737,
-    "timeYear": 1089,
+    "timeDay": 679,
+    "timeWeek": 713,
+    "timeMonth": 680,
+    "timeYear": 1088,
     "dailyMinutesDown": {
       "2024-11-18": 36,
       "2024-06-24": 897,
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.31%",
-    "time": 633,
-    "timeDay": 388,
-    "timeWeek": 491,
-    "timeMonth": 467,
-    "timeYear": 710,
+    "time": 632,
+    "timeDay": 441,
+    "timeWeek": 482,
+    "timeMonth": 465,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2024-11-18": 36,
       "2024-06-24": 897,
@@ -126,9 +126,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.32%",
     "time": 580,
-    "timeDay": 461,
-    "timeWeek": 409,
-    "timeMonth": 399,
+    "timeDay": 397,
+    "timeWeek": 406,
+    "timeMonth": 398,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2024-11-18": 36,
@@ -145,8 +145,7 @@
       "2024-03-30": 41,
       "2024-03-29": 27,
       "2024-03-25": 39,
-      "2024-03-24": 43,
-      "2023-12-04": 19
+      "2024-03-24": 43
     }
   },
   {
@@ -161,10 +160,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.33%",
     "time": 601,
-    "timeDay": 548,
-    "timeWeek": 471,
-    "timeMonth": 464,
-    "timeYear": 666,
+    "timeDay": 619,
+    "timeWeek": 487,
+    "timeMonth": 466,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2024-11-18": 36,
       "2024-06-24": 897,
@@ -189,14 +188,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ambassador.heliteus.com.ico",
     "slug": "helite-us-ambassador-registration",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.34%",
     "time": 580,
-    "timeDay": 1191,
-    "timeWeek": 608,
+    "timeDay": 520,
+    "timeWeek": 615,
     "timeMonth": 496,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -212,8 +211,7 @@
       "2024-03-30": 39,
       "2024-03-25": 39,
       "2024-03-24": 40,
-      "2024-02-28": 15,
-      "2023-12-04": 17
+      "2024-02-28": 15
     }
   },
   {
@@ -227,10 +225,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.36%",
-    "time": 343,
-    "timeDay": 385,
-    "timeWeek": 343,
-    "timeMonth": 351,
+    "time": 344,
+    "timeDay": 377,
+    "timeWeek": 346,
+    "timeMonth": 350,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2024-11-18": 36,
@@ -241,8 +239,7 @@
       "2024-06-20": 1424,
       "2024-06-19": 1440,
       "2024-06-18": 422,
-      "2024-02-28": 15,
-      "2023-12-04": 24
+      "2024-02-28": 15
     }
   },
   {
@@ -257,13 +254,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 438,
-    "timeWeek": 323,
-    "timeMonth": 362,
-    "timeYear": 532,
-    "dailyMinutesDown": {
-      "2023-12-04": 16
-    }
+    "timeDay": 1307,
+    "timeWeek": 464,
+    "timeMonth": 393,
+    "timeYear": 533,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Egide US API",
@@ -277,13 +272,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 503,
-    "timeWeek": 389,
-    "timeMonth": 386,
+    "timeDay": 392,
+    "timeWeek": 384,
+    "timeMonth": 384,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-06-19": 22,
-      "2023-12-04": 15
+      "2024-06-19": 22
     }
   }
 ]
