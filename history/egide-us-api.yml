@@ -1,7 +1,7 @@
 url: https://api.egideus.com
-status: down
-code: 500
-responseTime: 196
-lastUpdated: 2025-11-18T11:39:44.698Z
+status: up
+code: 200
+responseTime: 582
+lastUpdated: 2025-11-18T12:34:11.011Z
 startTime: 2023-02-13T00:29:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
