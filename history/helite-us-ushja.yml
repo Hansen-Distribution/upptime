@@ -1,7 +1,7 @@
 url: https://ushja.heliteus.com
-status: up
-code: 200
-responseTime: 434
-lastUpdated: 2025-11-18T14:47:57.652Z
+status: down
+code: 500
+responseTime: 119
+lastUpdated: 2025-11-18T15:50:00.210Z
 startTime: 2023-02-13T00:29:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
