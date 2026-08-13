@@ -4,16 +4,16 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "66.82%",
-    "uptimeWeek": "95.26%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "63.35%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.43%",
     "time": 399,
-    "timeDay": 9880,
-    "timeWeek": 2711,
-    "timeMonth": 933,
+    "timeDay": 6698,
+    "timeWeek": 2447,
+    "timeMonth": 915,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-09-09": 65,
@@ -23,7 +23,7 @@
       "2026-05-26": 277,
       "2026-05-25": 1440,
       "2026-05-24": 522,
-      "2026-08-13": 478
+      "2026-08-13": 528
     }
   },
   {
@@ -31,17 +31,17 @@
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "66.90%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.83%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "63.43%",
+    "uptimeWeek": "94.78%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 920,
-    "timeDay": 10068,
-    "timeWeek": 3145,
-    "timeMonth": 1471,
-    "timeYear": 922,
+    "timeDay": 6966,
+    "timeWeek": 2881,
+    "timeMonth": 1450,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-09-11": 863,
       "2025-09-10": 1440,
@@ -58,7 +58,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 517,
       "2026-07-06": 180,
-      "2026-08-13": 477
+      "2026-08-13": 527
     }
   },
   {
@@ -66,16 +66,16 @@
     "url": "https://sponsorship.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/sponsorship.heliteus.com.ico",
     "slug": "helite-us-ihsa",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "66.98%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "63.51%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.52%",
     "time": 494,
-    "timeDay": 9916,
-    "timeWeek": 2811,
-    "timeMonth": 1050,
+    "timeDay": 6745,
+    "timeWeek": 2543,
+    "timeMonth": 1031,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2025-09-12": 1080,
@@ -94,7 +94,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 512,
       "2026-07-06": 179,
-      "2026-08-13": 475
+      "2026-08-13": 525
     }
   },
   {
@@ -102,16 +102,16 @@
     "url": "https://ushja.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "67.06%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.54%",
-    "time": 507,
-    "timeDay": 10004,
-    "timeWeek": 2835,
-    "timeMonth": 1055,
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "63.59%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.53%",
+    "time": 506,
+    "timeDay": 6831,
+    "timeWeek": 2574,
+    "timeMonth": 1037,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-09-12": 1080,
@@ -129,7 +129,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 507,
       "2026-07-06": 179,
-      "2026-08-13": 474
+      "2026-08-13": 524
     }
   },
   {
