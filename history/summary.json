@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.14%",
+    "uptimeDay": "66.82%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.44%",
     "time": 399,
     "timeDay": 9880,
     "timeWeek": 2711,
@@ -23,7 +23,7 @@
       "2026-05-26": 277,
       "2026-05-25": 1440,
       "2026-05-24": 522,
-      "2026-08-13": 11
+      "2026-08-13": 478
     }
   },
   {
@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
     "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.91%",
+    "uptime": "98.89%",
+    "uptimeDay": "66.90%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.83%",
     "time": 920,
     "timeDay": 10068,
     "timeWeek": 3145,
@@ -58,7 +58,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 517,
       "2026-07-06": 180,
-      "2026-08-13": 9
+      "2026-08-13": 477
     }
   },
   {
@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sponsorship.heliteus.com.ico",
     "slug": "helite-us-ihsa",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.83%",
+    "uptimeDay": "66.98%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.53%",
     "time": 494,
     "timeDay": 9916,
     "timeWeek": 2811,
@@ -94,7 +94,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 512,
       "2026-07-06": 179,
-      "2026-08-13": 8
+      "2026-08-13": 475
     }
   },
   {
@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
     "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.84%",
+    "uptimeDay": "67.06%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.54%",
     "time": 507,
     "timeDay": 10004,
     "timeWeek": 2835,
@@ -129,7 +129,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 507,
       "2026-07-06": 179,
-      "2026-08-13": 7
+      "2026-08-13": 474
     }
   },
   {
@@ -137,17 +137,17 @@
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.63%",
-    "time": 586,
-    "timeDay": 9858,
-    "timeWeek": 2821,
-    "timeMonth": 1106,
-    "timeYear": 620,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "67.18%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.54%",
+    "time": 588,
+    "timeDay": 7171,
+    "timeWeek": 2707,
+    "timeMonth": 1127,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-09-12": 1080,
       "2025-09-11": 1440,
@@ -165,7 +165,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 502,
       "2026-07-06": 179,
-      "2026-08-13": 6
+      "2026-08-13": 473
     }
   },
   {
@@ -173,17 +173,17 @@
     "url": "https://ambassador.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ambassador.heliteus.com.ico",
     "slug": "helite-us-ambassador-registration",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.64%",
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "67.26%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.55%",
     "time": 521,
-    "timeDay": 9891,
-    "timeWeek": 2833,
-    "timeMonth": 1091,
-    "timeYear": 533,
+    "timeDay": 6718,
+    "timeWeek": 2559,
+    "timeMonth": 1069,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2025-09-12": 1080,
       "2025-09-11": 1440,
@@ -199,7 +199,7 @@
       "2026-05-25": 1440,
       "2026-05-24": 497,
       "2026-07-06": 179,
-      "2026-08-13": 5
+      "2026-08-13": 471
     }
   },
   {
@@ -241,22 +241,22 @@
     "url": "https://www.egideus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.egideus.com.ico",
     "slug": "egide-us-site",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
-    "time": 462,
-    "timeDay": 19716,
-    "timeWeek": 5166,
-    "timeMonth": 1577,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "67.41%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.87%",
+    "time": 463,
+    "timeDay": 13374,
+    "timeWeek": 4668,
+    "timeMonth": 1550,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2025-09-09": 64,
       "2025-09-25": 18,
       "2025-11-18": 114,
-      "2026-08-13": 3
+      "2026-08-13": 469
     }
   },
   {
@@ -264,22 +264,22 @@
     "url": "https://api.egideus.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.egideus.com.ico",
     "slug": "egide-us-api",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "67.55%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.86%",
     "time": 554,
-    "timeDay": 19671,
-    "timeWeek": 5387,
-    "timeMonth": 1762,
-    "timeYear": 572,
+    "timeDay": 13314,
+    "timeWeek": 4855,
+    "timeMonth": 1727,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-09-09": 64,
       "2025-09-25": 16,
       "2025-11-18": 167,
-      "2026-08-13": 1
+      "2026-08-13": 467
     }
   }
 ]
